@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=time_logger
+POSTGRES_USER=ReARxavSiTNlmnGUEOnkzfErJEvPcEPD
+POSTGRES_PASSWORD=EjBNzJeLlh2kESC1N8CnV7uIui1VI0Wh0TCCd3FTxom6zxkYLoOxEqP5SABqrpry
